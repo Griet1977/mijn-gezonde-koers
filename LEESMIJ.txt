@@ -1,0 +1,21 @@
+MIJN GEZONDE KOERS V3
+
+INHOUD
+- index.html: de volledige app
+- manifest.webmanifest: installatie-informatie
+- sw.js: offline ondersteuning en cache-update
+- icon-192.png en icon-512.png: app-iconen
+- GITHUB_STAPPENPLAN.txt: zeer gedetailleerde uploadinstructies
+
+NIEUW IN V3
+- Instelbare calorie-, slaap-, rook-, bewegings-, wandel- en krachttrainingsdoelen
+- Instelbaar streefgewicht en beloning
+- Rookregistratie opgelost
+- Wandeling en krachttraining activeren automatisch het beweegmoment
+- Weekgemiddelden gebaseerd op 7 dagen én ingevulde dagen
+- Maandbudget en activiteitscalorieën
+- Werkelijke gewichtstrend in plaats van voorspeld gewichtsverlies
+- Automatische overname van lokale gegevens uit oudere versies waar mogelijk
+
+LET OP
+Foto's en gegevens blijven lokaal in Safari op de iPhone. Verwijder Safari-websitegegevens niet zonder back-up.

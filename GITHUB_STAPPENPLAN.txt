@@ -1,0 +1,48 @@
+MIJN GEZONDE KOERS V3 OP GITHUB ZETTEN
+
+BELANGRIJK
+Pak dit ZIP-bestand eerst uit. Upload NIET het ZIP-bestand zelf. Upload de vijf bestanden die je in de uitgepakte map ziet.
+
+DEEL 1 - ZIP UITPAKKEN OP JE LAPTOP
+1. Download Mijn_Gezonde_Koers_v3_GitHub.zip.
+2. Open de map Downloads.
+3. Klik met de rechtermuisknop op het ZIP-bestand.
+4. Kies Alles uitpakken.
+5. Klik op Uitpakken.
+6. Open de uitgepakte map. Je ziet index.html, manifest.webmanifest, sw.js, icon-192.png, icon-512.png en handleidingen.
+
+DEEL 2 - OUDE BESTANDEN OP GITHUB VERVANGEN
+1. Open github.com en meld je aan.
+2. Open dezelfde repository die nu je iPhone-app publiceert.
+3. Klik bovenaan op Code.
+4. Verwijder de oude appbestanden één voor één als GitHub geen overschrijven aanbiedt. Open een bestand, klik rechtsboven op het prullenbak-icoon, klik Commit changes en nogmaals Commit changes. Verwijder minstens de oude index.html, manifest.webmanifest, sw.js en oude iconen.
+5. Ga terug naar de hoofdpagina van de repository.
+6. Klik Add file.
+7. Klik Upload files.
+8. Sleep deze vijf bestanden naar het uploadvak: index.html, manifest.webmanifest, sw.js, icon-192.png en icon-512.png.
+9. Wacht tot alle vijf bestandsnamen zichtbaar zijn.
+10. Typ bij Commit changes: Update naar Mijn Gezonde Koers v3.
+11. Klik Commit changes.
+
+DEEL 3 - CONTROLEREN
+1. Klik bovenaan op Actions.
+2. Open de nieuwste Pages build and deployment.
+3. Een groen vinkje betekent dat de publicatie gelukt is.
+4. Open daarna Settings en links Pages.
+5. Klik op Visit site of open hetzelfde HTTPS-adres als voordien.
+
+DEEL 4 - IPHONE VERNIEUWEN
+1. Open eerst je HTTPS-adres rechtstreeks in Safari, niet via het icoon op je beginscherm.
+2. Trek de pagina naar beneden om te vernieuwen.
+3. Zie je nog de oude versie? Sluit Safari volledig en open het adres opnieuw.
+4. Zie je nog altijd de oude versie? Verwijder dan alleen het oude app-icoon van het beginscherm. Dit verwijdert niet automatisch de GitHub-site.
+5. Open je HTTPS-adres opnieuw in Safari.
+6. Tik op Delen, het vierkant met de pijl omhoog.
+7. Kies Zet op beginscherm.
+8. Kies Voeg toe.
+
+GEGEVENS UIT DE OUDE VERSIE
+De nieuwe app probeert bestaande lokale gegevens uit eerdere versies over te nemen. Controleer na de update enkele dagen en instellingen. Maak voor toekomstige updates geregeld een CSV-back-up via het weekscherm.
+
+ALS DE PAGINA 404 TOONT
+Controleer dat index.html rechtstreeks in de hoofdmap van de repository staat, niet in een extra submap. Controleer onder Settings > Pages dat Source op Deploy from a branch staat, Branch op main en map op /(root).
