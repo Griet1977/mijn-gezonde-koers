@@ -1,0 +1,1 @@
+V5 bevat alle V4-functies plus resterende sigaretten per dag en uitgebreide maandstatistieken voor roken: totaal, gemiddelde per ingevulde dag, dagen binnen en boven doel, vergelijking met vorige maand en weekgrafiek.
