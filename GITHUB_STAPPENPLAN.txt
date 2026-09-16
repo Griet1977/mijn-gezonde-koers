@@ -1,0 +1,13 @@
+MIJN GEZONDE KOERS V6 PUBLICEREN
+
+1. Download en pak het ZIP-bestand uit.
+2. Open dezelfde GitHub-repository als je huidige app.
+3. Klik Code > Add file > Upload files.
+4. Upload de uitgepakte bestanden index.html, manifest.webmanifest, sw.js, icon-192.png en icon-512.png.
+5. Committekst: Update naar Mijn Gezonde Koers v6.
+6. Klik Commit changes.
+7. Controleer onder Actions of Pages build and deployment een groen vinkje krijgt.
+8. Open je bestaande HTTPS-adres rechtstreeks in Safari en vernieuw.
+9. Zie je nog V5, sluit Safari volledig en open opnieuw. Verwijder zo nodig alleen het beginschermicoon en voeg opnieuw toe via Delen > Zet op beginscherm.
+
+V6 neemt gegevens uit eerdere lokale versies samen en telt groene dagen opnieuw. Wis Safari-websitegegevens niet zonder back-up.

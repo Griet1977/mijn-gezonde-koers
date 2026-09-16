@@ -1,0 +1,1 @@
+V6: gewichtstrend staat boven rookoverzicht, rookgrafiek is compacter en beloningsdoel telt groene dagen opnieuw over samengevoegde gegevens uit V2 t/m V6. Alle functies uit V5 blijven behouden.
